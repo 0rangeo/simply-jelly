@@ -55,20 +55,20 @@ user:
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Raghuveer S
-  bio: Programmer ∪ Writer
-  email: raghu-veer@outlook.com
-  photo: /assets/img/profile.png
+  name: Dhruv G
+  bio: A smol blog about my thoughts
+  email: dhruvgore@gmail.com
+  photo: /assets/img/profile pic jelly.png
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
-    enabled: false  # turn this to true
-    twitter: raghuveerdotnet
-    github: raghuveerdotnet 
-    youtube: raghuveerdotnet 
-    linkedin: raghuveerdotnet  
+    enabled: true  # turn this to true
+    twitter: null
+    github: 0rangeo
+    youtube: dhruvgore
+    linkedin: null 
     twitch: null
     facebook: null 
-    instagram: null
+    instagram: dwoov
 
 
 

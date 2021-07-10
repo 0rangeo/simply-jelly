@@ -6,15 +6,13 @@ content-type: eg
 ---
 
 
-- I am a software engineer and a writer interested in the interplay between thoughts and constraints, the duality of interpretations and representations, and the nature of abstractions and correspondence between them. 
-
-- I am a long time practioner of Vipassana, but I am also a fallibilist with a slight objectivist bent. So I probably have a very different view of meditation than most people. We can talk about it if you want to.
+-an most people. We can talk about it if you want to.
 
 - On this website I write articles about [[Computer Science::/tags/#Software]], [[Philosophy::/tags/#Philosophy]], Mathematics, and [[Generic Life Stuff::/tags/#General]]. Sometimes I also [[review::/tags/#Review]] books that I've read. You can find my programming side-projects on [[github::https://www.github.com/raghuveerdotnet]]
 
 - I have a [[youtube channel::https://www.youtube.com/channel/UCESc8TaWpQxpHEnfhQLgzPQ]] on which I stream my work log(live writing sessions, coding sessions, reading/researching sessions, etc).
   
-- If you find anything interesting about who I am or what I do, please do reach out to me. 👇
+- If yo
 
 
 ## Reach out to me
@@ -27,10 +25,10 @@ content-type: eg
 
 
 ## About the website
-
+test <br/>::rmn
 ### Features:
-
-[[***Changelog***<br/>
+[[test asdfaf::lsn]]
+[[***Changelog***
 \- 14-05-20 Context Menu <br/>
 \- 08-05-20 Trivial Spaced Repetition <br/>
 \- 04-05-20 Removed Theming. <br/>
